@@ -1,0 +1,89 @@
+
+== sonne: FF-130SH-14230, 4s, i = 5 ==
+   Szenario                         sonne
+   Motor                            FF-130SH-14230
+   Verschaltung                     4s
+   G_W_m2                           850.0
+   i                                5.0
+   Rad_d_mm                         50.0
+   Masse_g                          260
+   Anfahrkraft_N                    0.616
+   Anfahrreserve                    6.73
+   a_Start_m_s2                     2.03
+   v_Beharrung_m_s                  5.08
+   v_max_Rennen_m_s                 4.36
+   t_Durchfahrt_1_s                 3.58
+   t_Durchfahrt_2_s                 3.03
+   t_Durchfahrt_3_s                 3.03
+   t_Durchfahrt_4_s                 3.03
+   t_gesamt_s                       12.67
+   v_Aufprall_max_m_s               4.36
+   v_Tunnel_min_m_s                 3.3
+   Status                           Ziel erreicht
+   Herkunft                         simuliert (Annahmewerte, unkalibriert)
+   Zeitverlust_Richtungswechsel_s   2.9
+   Monte-Carlo: {'Szenario': 'sonne', 'Verschaltung': '4s', 'i': 5.0, 'n': 400, 'Zieleinlauf_%': np.float64(100.0), 't_P10_s': 12.11, 't_Median_s': 13.41, 't_P90_s': 15.15, 'v_Aufprall_P90_m_s': 4.47, 'kein_Anlauf_%': 0.0, 'Stillstand_Strecke/Tunnel_%': 0.0, 'kein_Umschalten_%': 0.0}
+
+== bewoelkt: FF-130SH-14230, 2s2p, i = 5 ==
+   Szenario                         bewoelkt
+   Motor                            FF-130SH-14230
+   Verschaltung                     2s2p
+   G_W_m2                           150.0
+   i                                5.0
+   Rad_d_mm                         50.0
+   Masse_g                          260
+   Anfahrkraft_N                    0.184
+   Anfahrreserve                    2.01
+   a_Start_m_s2                     0.45
+   v_Beharrung_m_s                  2.15
+   v_max_Rennen_m_s                 1.87
+   t_Durchfahrt_1_s                 8.14
+   t_Durchfahrt_2_s                 7.03
+   t_Durchfahrt_3_s                 7.02
+   t_Durchfahrt_4_s                 7.02
+   t_gesamt_s                       29.21
+   v_Aufprall_max_m_s               1.87
+   v_Tunnel_min_m_s                 1.15
+   Status                           Ziel erreicht
+   Herkunft                         simuliert (Annahmewerte, unkalibriert)
+   Zeitverlust_Richtungswechsel_s   5.76
+   Monte-Carlo: {'Szenario': 'bewoelkt', 'Verschaltung': '2s2p', 'i': 5.0, 'n': 400, 'Zieleinlauf_%': np.float64(67.5), 't_P10_s': 26.25, 't_Median_s': 31.46, 't_P90_s': 39.4, 'v_Aufprall_P90_m_s': 2.01, 'kein_Anlauf_%': 7.8, 'Stillstand_Strecke/Tunnel_%': 24.8, 'kein_Umschalten_%': 0.0}
+
+== kunstlicht: FF-130SH-14230, 2s2p, i = 5 ==
+   Szenario                         kunstlicht
+   Motor                            FF-130SH-14230
+   Verschaltung                     2s2p
+   G_W_m2                           200.0
+   i                                5.0
+   Rad_d_mm                         50.0
+   Masse_g                          260
+   Anfahrkraft_N                    0.262
+   Anfahrreserve                    2.86
+   a_Start_m_s2                     0.74
+   v_Beharrung_m_s                  2.16
+   v_max_Rennen_m_s                 1.99
+   t_Durchfahrt_1_s                 6.89
+   t_Durchfahrt_2_s                 6.26
+   t_Durchfahrt_3_s                 6.26
+   t_Durchfahrt_4_s                 6.26
+   t_gesamt_s                       25.67
+   v_Aufprall_max_m_s               1.99
+   v_Tunnel_min_m_s                 1.38
+   Status                           Ziel erreicht
+   Herkunft                         simuliert (Annahmewerte, unkalibriert)
+   Zeitverlust_Richtungswechsel_s   3.9
+   Monte-Carlo: {'Szenario': 'kunstlicht', 'Verschaltung': '2s2p', 'i': 5.0, 'n': 400, 'Zieleinlauf_%': np.float64(92.5), 't_P10_s': 24.83, 't_Median_s': 28.44, 't_P90_s': 34.38, 'v_Aufprall_P90_m_s': 2.07, 'kein_Anlauf_%': 0.0, 'Stillstand_Strecke/Tunnel_%': 7.5, 'kein_Umschalten_%': 0.0}
+
+== Getriebevarianten ==
+   V1 14:58   sonne      4s    F0=0.51 N  a0=1.65  v_Beh=5.81  v_max=4.39  t1=3.83  t=13.26  v_Aufprall=4.39  Ziel erreicht
+   V2 12:60   sonne      4s    F0=0.616 N  a0=2.03  v_Beh=5.08  v_max=4.36  t1=3.58  t=12.67  v_Aufprall=4.36  Ziel erreicht
+   V3 10:62   sonne      4s    F0=0.764 N  a0=2.55  v_Beh=4.26  v_max=4.0  t1=3.48  t=12.75  v_Aufprall=4.0  Ziel erreicht
+   V1 14:58   bewoelkt   2s2p  F0=0.152 N  a0=0.34  v_Beh=2.45  v_max=1.8  t1=9.17  t=32.16  v_Aufprall=1.8  Ziel erreicht
+   V2 12:60   bewoelkt   2s2p  F0=0.184 N  a0=0.45  v_Beh=2.15  v_max=1.87  t1=8.14  t=29.21  v_Aufprall=1.87  Ziel erreicht
+   V3 10:62   bewoelkt   2s2p  F0=0.228 N  a0=0.6  v_Beh=1.82  v_max=1.73  t1=7.92  t=29.47  v_Aufprall=1.73  Ziel erreicht
+   V1 14:58   kunstlicht 2s2p  F0=0.217 N  a0=0.57  v_Beh=2.49  v_max=2.1  t1=7.16  t=25.95  v_Aufprall=2.1  Ziel erreicht
+   V2 12:60   kunstlicht 2s2p  F0=0.262 N  a0=0.74  v_Beh=2.16  v_max=1.99  t1=6.89  t=25.67  v_Aufprall=1.99  Ziel erreicht
+   V3 10:62   kunstlicht 2s2p  F0=0.325 N  a0=0.96  v_Beh=1.81  v_max=1.75  t1=7.18  t=27.56  v_Aufprall=1.75  Ziel erreicht
+
+Tabellen -> C:\Users\Jonas\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\4373c39a-4161-48f9-9bee-f31d56ccb375\29afa420-1743-4e84-b9eb-280f5aea64cd\scratch-2026-11-14-e90f7e\SolarMobil_Expert\results\calculations 
+Diagramme -> C:\Users\Jonas\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\4373c39a-4161-48f9-9bee-f31d56ccb375\29afa420-1743-4e84-b9eb-280f5aea64cd\scratch-2026-11-14-e90f7e\SolarMobil_Expert\results\diagrams

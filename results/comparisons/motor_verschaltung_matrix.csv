@@ -1,0 +1,100 @@
+Motor;Verschaltung;Szenario;i_opt;t_gesamt_s;v_max_m_s;v_Aufprall_max_m_s;U_Motor_max_V;U_im_Bereich;Status
+RF300CA-14270;4s;sonne;8.5;12.78;4.28;4.28;8.0;NEIN (>4 V);Ziel erreicht
+RF300CA-14270;4s;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300CA-14270;4s;kunstlicht;10.0;43.52;1.41;1.41;3.24;ja;Ziel erreicht
+RF300CA-14270;2s2p;sonne;5.0;16.71;3.14;3.14;4.12;NEIN (>4 V);Ziel erreicht
+RF300CA-14270;2s2p;bewoelkt;8.5;28.21;1.9;1.9;3.6;ja;Ziel erreicht
+RF300CA-14270;2s2p;kunstlicht;7.0;24.88;2.16;2.16;3.54;ja;Ziel erreicht
+RF300CA-14270;4p;sonne;4.0;30.7;1.66;1.66;2.09;ja;Ziel erreicht
+RF300CA-14270;4p;bewoelkt;4.5;38.43;1.34;1.34;1.87;ja;Ziel erreicht
+RF300CA-14270;4p;kunstlicht;4.5;37.7;1.34;1.34;1.86;ja;Ziel erreicht
+RF300CA-11400@3V;4s;sonne;5.5;13.9;3.87;3.87;8.12;NEIN (>6 V);Ziel erreicht
+RF300CA-11400@3V;4s;bewoelkt;10.0;29.77;1.96;1.96;6.43;NEIN (>6 V);Ziel erreicht
+RF300CA-11400@3V;4s;kunstlicht;10.0;25.58;2.16;2.16;7.0;NEIN (>6 V);Ziel erreicht
+RF300CA-11400@3V;2s2p;sonne;4.0;22.29;2.35;2.35;4.19;ja;Ziel erreicht
+RF300CA-11400@3V;2s2p;bewoelkt;5.5;29.66;1.74;1.74;3.71;ja;Ziel erreicht
+RF300CA-11400@3V;2s2p;kunstlicht;5.0;28.02;1.83;1.83;3.69;ja;Ziel erreicht
+RF300CA-11400@3V;4p;sonne;4.0;49.28;1.02;1.02;2.12;ja;Ziel erreicht
+RF300CA-11400@3V;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300CA-11400@3V;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+RF300CA-10460;4s;sonne;5.0;15.31;3.5;3.5;8.2;NEIN (>6 V);Ziel erreicht
+RF300CA-10460;4s;bewoelkt;10.0;28.4;1.92;1.92;7.17;NEIN (>6 V);Ziel erreicht
+RF300CA-10460;4s;kunstlicht;9.0;25.81;2.07;2.07;7.14;NEIN (>6 V);Ziel erreicht
+RF300CA-10460;2s2p;sonne;4.0;26.35;1.96;1.96;4.21;ja;Ziel erreicht
+RF300CA-10460;2s2p;bewoelkt;5.0;33.46;1.53;1.53;3.75;ja;Ziel erreicht
+RF300CA-10460;2s2p;kunstlicht;4.5;32.34;1.59;1.59;3.71;ja;Ziel erreicht
+RF300CA-10460;4p;sonne;;;;;;;kein Zieleinlauf im Raster
+RF300CA-10460;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300CA-10460;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+RF300CA-09550;4s;sonne;5.0;17.06;3.07;3.07;8.33;NEIN (>6 V);Ziel erreicht
+RF300CA-09550;4s;bewoelkt;8.5;27.42;1.92;1.92;7.36;NEIN (>6 V);Ziel erreicht
+RF300CA-09550;4s;kunstlicht;7.5;25.61;2.05;2.05;7.25;NEIN (>6 V);Ziel erreicht
+RF300CA-09550;2s2p;sonne;4.0;31.09;1.64;1.64;4.23;ja;Ziel erreicht
+RF300CA-09550;2s2p;bewoelkt;4.5;38.05;1.35;1.35;3.8;ja;Ziel erreicht
+RF300CA-09550;2s2p;kunstlicht;4.5;37.59;1.34;1.34;3.78;ja;Ziel erreicht
+RF300CA-09550;4p;sonne;;;;;;;kein Zieleinlauf im Raster
+RF300CA-09550;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300CA-09550;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+RF300EA-1D390;4s;sonne;5.0;14.56;3.7;3.7;8.12;NEIN (>7 V);Ziel erreicht
+RF300EA-1D390;4s;bewoelkt;10.0;29.99;1.89;1.89;6.78;ja;Ziel erreicht
+RF300EA-1D390;4s;kunstlicht;9.5;26.33;2.06;2.06;7.04;ja;Ziel erreicht
+RF300EA-1D390;2s2p;sonne;4.0;24.26;2.13;2.13;4.2;ja;Ziel erreicht
+RF300EA-1D390;2s2p;bewoelkt;5.0;31.95;1.63;1.63;3.69;ja;Ziel erreicht
+RF300EA-1D390;2s2p;kunstlicht;4.5;30.37;1.7;1.7;3.67;ja;Ziel erreicht
+RF300EA-1D390;4p;sonne;4.0;60.99;0.87;0.87;2.12;ja;Ziel erreicht
+RF300EA-1D390;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300EA-1D390;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+RF300FA-11420;4s;sonne;4.5;14.27;3.74;3.74;8.17;NEIN (>5 V);Ziel erreicht
+RF300FA-11420;4s;bewoelkt;9.5;27.71;1.93;1.93;7.28;NEIN (>5 V);Ziel erreicht
+RF300FA-11420;4s;kunstlicht;8.0;25.07;2.16;2.16;7.09;NEIN (>5 V);Ziel erreicht
+RF300FA-11420;2s2p;sonne;3.5;23.56;2.19;2.19;4.21;ja;Ziel erreicht
+RF300FA-11420;2s2p;bewoelkt;4.5;30.62;1.67;1.67;3.74;ja;Ziel erreicht
+RF300FA-11420;2s2p;kunstlicht;4.0;29.2;1.75;1.75;3.7;ja;Ziel erreicht
+RF300FA-11420;4p;sonne;3.5;55.39;0.92;0.92;2.12;ja;Ziel erreicht
+RF300FA-11420;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300FA-11420;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+RF300FA-12350;4s;sonne;5.5;13.31;3.98;3.98;8.14;NEIN (>6 V);Ziel erreicht
+RF300FA-12350;4s;bewoelkt;10.0;30.87;1.89;1.89;6.34;NEIN (>6 V);Ziel erreicht
+RF300FA-12350;4s;kunstlicht;10.0;26.03;2.11;2.11;6.98;NEIN (>6 V);Ziel erreicht
+RF300FA-12350;2s2p;sonne;3.5;20.45;2.58;2.58;4.17;ja;Ziel erreicht
+RF300FA-12350;2s2p;bewoelkt;5.0;28.75;1.84;1.84;3.64;ja;Ziel erreicht
+RF300FA-12350;2s2p;kunstlicht;4.5;26.6;1.96;1.96;3.63;ja;Ziel erreicht
+RF300FA-12350;4p;sonne;3.5;42.8;1.17;1.17;2.11;ja;Ziel erreicht
+RF300FA-12350;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300FA-12350;4p;kunstlicht;3.0;60.3;0.96;0.95;1.88;ja;Ziel erreicht
+RF300SA-12350;4s;sonne;4.5;13.33;4.06;4.06;8.03;NEIN (>6 V);Ziel erreicht
+RF300SA-12350;4s;bewoelkt;10.0;31.63;1.8;1.8;6.71;NEIN (>6 V);Ziel erreicht
+RF300SA-12350;4s;kunstlicht;9.0;26.92;2.04;2.04;6.9;NEIN (>6 V);Ziel erreicht
+RF300SA-12350;2s2p;sonne;3.0;20.6;2.57;2.57;4.16;ja;Ziel erreicht
+RF300SA-12350;2s2p;bewoelkt;4.5;29.46;1.79;1.79;3.62;ja;Ziel erreicht
+RF300SA-12350;2s2p;kunstlicht;4.0;27.08;1.92;1.92;3.62;ja;Ziel erreicht
+RF300SA-12350;4p;sonne;3.0;44.0;1.15;1.15;2.11;ja;Ziel erreicht
+RF300SA-12350;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+RF300SA-12350;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+FF-130RH-15210;4s;sonne;8.5;12.58;4.26;4.26;8.03;NEIN (>4 V);Ziel erreicht
+FF-130RH-15210;4s;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+FF-130RH-15210;4s;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+FF-130RH-15210;2s2p;sonne;5.0;16.9;3.08;3.08;4.12;NEIN (>4 V);Ziel erreicht
+FF-130RH-15210;2s2p;bewoelkt;8.5;29.97;1.8;1.8;3.53;ja;Ziel erreicht
+FF-130RH-15210;2s2p;kunstlicht;7.0;25.77;2.07;2.07;3.5;ja;Ziel erreicht
+FF-130RH-15210;4p;sonne;4.0;32.18;1.58;1.58;2.09;ja;Ziel erreicht
+FF-130RH-15210;4p;bewoelkt;4.5;42.45;1.25;1.25;1.86;ja;Ziel erreicht
+FF-130RH-15210;4p;kunstlicht;4.5;41.18;1.26;1.26;1.85;ja;Ziel erreicht
+FF-130SH-11340;4s;sonne;4.0;15.19;3.46;3.46;8.2;ja;Ziel erreicht
+FF-130SH-11340;4s;bewoelkt;8.0;38.2;1.62;1.61;6.58;ja;Ziel erreicht
+FF-130SH-11340;4s;kunstlicht;7.0;29.43;1.87;1.87;6.8;ja;Ziel erreicht
+FF-130SH-11340;2s2p;sonne;3.0;26.91;1.91;1.91;4.2;ja;Ziel erreicht
+FF-130SH-11340;2s2p;bewoelkt;4.0;37.97;1.39;1.39;3.69;ja;Ziel erreicht
+FF-130SH-11340;2s2p;kunstlicht;3.5;35.12;1.47;1.47;3.67;ja;Ziel erreicht
+FF-130SH-11340;4p;sonne;;;;;;;kein Zieleinlauf im Raster
+FF-130SH-11340;4p;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+FF-130SH-11340;4p;kunstlicht;;;;;;;kein Zieleinlauf im Raster
+FF-130SH-14230;4s;sonne;5.5;12.61;4.24;4.24;8.06;ja;Ziel erreicht
+FF-130SH-14230;4s;bewoelkt;;;;;;;kein Zieleinlauf im Raster
+FF-130SH-14230;4s;kunstlicht;10.0;29.6;1.95;1.95;6.3;ja;Ziel erreicht
+FF-130SH-14230;2s2p;sonne;3.5;17.87;2.89;2.89;4.15;ja;Ziel erreicht
+FF-130SH-14230;2s2p;bewoelkt;5.5;28.88;1.83;1.83;3.59;ja;Ziel erreicht
+FF-130SH-14230;2s2p;kunstlicht;4.5;25.63;2.07;2.07;3.54;ja;Ziel erreicht
+FF-130SH-14230;4p;sonne;3.0;35.21;1.42;1.42;2.1;ja;Ziel erreicht
+FF-130SH-14230;4p;bewoelkt;3.0;46.04;1.17;1.17;1.87;ja;Ziel erreicht
+FF-130SH-14230;4p;kunstlicht;3.0;45.04;1.17;1.17;1.86;ja;Ziel erreicht

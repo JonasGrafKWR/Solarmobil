@@ -1,0 +1,16 @@
+Teil;Werkstoff;Stueck;Volumen_cm3;Masse_je_Stueck_g;Masse_gesamt_g;Druckmass_x_mm;Druckmass_y_mm;Druckhoehe_z_mm;Drucklage
+01_deck_hauptrahmen;ASA;1;31.76;33.35;33.35;240.0;128.0;38.5;Oberseite auf der Platte, Rippen/Lagerböcke nach oben
+02_rad;PLA Basic;4;1.906;2.36;9.45;47.6;47.6;7.7;"Außenseite auf der Platte, Nabenbund nach oben; O-Ring 45x2 aufziehen"
+03_stossfaengertraeger;PETG HF;2;2.699;3.45;6.91;21.1;44.0;11.0;Pufferfläche auf der Platte
+04_schaltstange;PETG HF;2;1.75;2.24;4.48;143.7;8.1;3.0;flach (Nockenkontur in der Druckebene)
+05_federteller;PETG HF;2;0.078;0.1;0.2;6.0;6.0;3.0;Bohrung senkrecht
+06_schaltbasis;PETG HF;1;3.803;4.87;4.87;42.5;52.0;11.3;Grundplatte unten
+07_schaltschieber;PETG HF;1;1.702;2.18;2.18;24.0;22.0;9.3;Platte unten, Stifte nach oben
+08_modulklammer;PETG HF;8;0.146;0.19;1.49;8.0;6.4;4.6;Lippe auf der Platte
+09_distanzhuelse_fuehrung;PETG HF;2;0.086;0.11;0.22;5.0;5.0;7.8;stehend
+10_ritzel_z14_V1_schnell;PLA Basic;1;0.391;0.48;0.48;11.4;11.2;5.4;flach, 0,2-mm-Düse
+11_abtriebsrad_z58_V1_schnell;PLA Basic;1;2.377;2.95;2.95;41.7;41.7;8.0;Stegseite auf der Platte, Nabe oben, 0,2-mm-Düse
+10_ritzel_z12_V2_ausgewogen;PLA Basic;1;0.292;0.36;0.36;10.1;10.1;5.4;flach, 0,2-mm-Düse
+11_abtriebsrad_z60_V2_ausgewogen;PLA Basic;1;2.514;3.12;3.12;42.9;42.9;8.0;Stegseite auf der Platte, Nabe oben, 0,2-mm-Düse
+10_ritzel_z10_V3_anfahrstark;PLA Basic;1;0.208;0.26;0.26;8.8;8.4;5.4;flach, 0,2-mm-Düse
+11_abtriebsrad_z62_V3_anfahrstark;PLA Basic;1;2.652;3.29;3.29;44.2;44.1;8.0;Stegseite auf der Platte, Nabe oben, 0,2-mm-Düse

@@ -1,0 +1,9 @@
+# Simulation
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+# CAD (OpenCASCADE-Kern, STEP-Dateien sind in FreeCAD oeffenbar)
+cadquery>=2.4
+trimesh>=4.0
+# Tests
+pytest>=7

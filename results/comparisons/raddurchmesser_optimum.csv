@@ -1,0 +1,13 @@
+Verschaltung;Szenario;Rad_d_mm;i_opt;i_opt/r_1_mm;t_gesamt_s;Achse_ueber_Schiene
+4s;sonne;20;2.0;0.2;12.71;NEIN (Portal-/Stummelachse noetig)
+4s;sonne;30;3.5;0.233;12.64;NEIN (Portal-/Stummelachse noetig)
+4s;sonne;40;4.5;0.225;12.6;ja
+4s;sonne;44;5.0;0.227;12.61;ja
+4s;sonne;50;5.5;0.22;12.61;ja
+4s;sonne;60;6.5;0.217;12.61;ja
+2s2p;kunstlicht;20;2.0;0.2;25.73;NEIN (Portal-/Stummelachse noetig)
+2s2p;kunstlicht;30;3.0;0.2;25.67;NEIN (Portal-/Stummelachse noetig)
+2s2p;kunstlicht;40;4.0;0.2;25.67;ja
+2s2p;kunstlicht;44;4.0;0.182;25.6;ja
+2s2p;kunstlicht;50;4.5;0.18;25.63;ja
+2s2p;kunstlicht;60;5.5;0.183;25.62;ja

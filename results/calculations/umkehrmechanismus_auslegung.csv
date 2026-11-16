@@ -1,0 +1,33 @@
+Groesse;Wert;Einheit;Herkunft;Bemerkung
+Keilfaktor F_axial/F_quer;1.4;-;berechnet;tan(35°+arctan µ)+µ, µ=0.25 [A]
+Stangenweg bis Schieber umgelegt;8.14;mm;berechnet (CAD);Leerweg + Hub/tan(Rampe)
+Losbrechkraft an der Stange (Magnet loesen);2.1;N;berechnet;Magnet-Haltekraft 1.5 N [A]
+Stangenkraft beim Druecken des Schalthebels;1.09;N;berechnet;OF max 0,78 N [D]
+Arbeit Magnet loesen;1.47;mJ;berechnet;
+Arbeit Schalthebel;1.86;mJ;berechnet;
+Arbeit Rueckstellfeder bis Umschaltpunkt;3.11;mJ;berechnet;
+Schaltarbeit gesamt;6.44;mJ;berechnet;
+Mindest-Aufprallgeschwindigkeit (E_kin = Schaltarbeit);0.22;m/s;berechnet;"Fahrzeugmasse 260 g; mit Sicherheitsfaktor 2 auf die Arbeit: 0.31 m/s"
+Energiereserve Sonne (v_Aufprall 4.4 m/s, simuliert);391;x Schaltarbeit;berechnet;E_kin = 2.52 J
+Energiereserve Kunstlicht (v_Aufprall 2.0 m/s, simuliert);81;x Schaltarbeit;berechnet;E_kin = 0.52 J
+Energiereserve bewoelkt (v_Aufprall 1.85 m/s, simuliert);69;x Schaltarbeit;berechnet;E_kin = 0.44 J
+Aufprall 2.0 m/s: Energie;0.52;J;berechnet;
+Aufprall 2.0 m/s: mittlere Pufferkraft;43;N;berechnet;Stauchweg 12 mm [A]
+Aufprall 2.0 m/s: mittlere Verzoegerung;167;m/s^2;berechnet;= 17 g
+Aufprall 2.0 m/s: noetige Schaum-Druckspannung;0.054;MPa;berechnet;Schaumstoff so waehlen, dass sein Plateau etwa diesen Wert erreicht
+Aufprall 2.0 m/s: Traegheitskraft auf die hintere Stange;0.37;N;berechnet;wird von der Rastflaeche der gedrueckten vorderen Stange abgefangen (Formschluss)
+Aufprall 2.0 m/s: Kraft je Modul auf Traegerplatte;6.0;N;berechnet;Modulmasse = Annahme
+Aufprall 3.0 m/s: Energie;1.17;J;berechnet;
+Aufprall 3.0 m/s: mittlere Pufferkraft;97;N;berechnet;Stauchweg 12 mm [A]
+Aufprall 3.0 m/s: mittlere Verzoegerung;375;m/s^2;berechnet;= 38 g
+Aufprall 3.0 m/s: noetige Schaum-Druckspannung;0.122;MPa;berechnet;Schaumstoff so waehlen, dass sein Plateau etwa diesen Wert erreicht
+Aufprall 3.0 m/s: Traegheitskraft auf die hintere Stange;0.82;N;berechnet;wird von der Rastflaeche der gedrueckten vorderen Stange abgefangen (Formschluss)
+Aufprall 3.0 m/s: Kraft je Modul auf Traegerplatte;13.5;N;berechnet;Modulmasse = Annahme
+Aufprall 4.4 m/s: Energie;2.52;J;berechnet;
+Aufprall 4.4 m/s: mittlere Pufferkraft;210;N;berechnet;Stauchweg 12 mm [A]
+Aufprall 4.4 m/s: mittlere Verzoegerung;807;m/s^2;berechnet;= 82 g
+Aufprall 4.4 m/s: noetige Schaum-Druckspannung;0.262;MPa;berechnet;Schaumstoff so waehlen, dass sein Plateau etwa diesen Wert erreicht
+Aufprall 4.4 m/s: Traegheitskraft auf die hintere Stange;1.77;N;berechnet;wird von der Rastflaeche der gedrueckten vorderen Stange abgefangen (Formschluss)
+Aufprall 4.4 m/s: Kraft je Modul auf Traegerplatte;29.0;N;berechnet;Modulmasse = Annahme
+Querbeschleunigung, die den Schieber loesen wuerde;327;m/s^2;berechnet;Aufprallkraefte wirken laengs, der Schieber bewegt sich quer -> unkritisch
+Kippmoment-Hebelarm Puffer zu Schwerpunkt;0.2;mm;berechnet (CAD);Puffermitte 47,5 mm, Schwerpunkt 47,7 mm

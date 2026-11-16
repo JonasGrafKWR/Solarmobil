@@ -1,0 +1,4 @@
+Szenario;Verschaltung;i;n;Zieleinlauf_%;t_P10_s;t_Median_s;t_P90_s;v_Aufprall_P90_m_s;kein_Anlauf_%;Stillstand_Strecke/Tunnel_%;kein_Umschalten_%
+sonne;4s;5.0;400;100.0;12.11;13.41;15.15;4.47;0.0;0.0;0.0
+bewoelkt;2s2p;5.0;400;67.5;26.25;31.46;39.4;2.01;7.8;24.8;0.0
+kunstlicht;2s2p;5.0;400;92.5;24.83;28.44;34.38;2.07;0.0;7.5;0.0

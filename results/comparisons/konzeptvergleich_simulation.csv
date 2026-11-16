@@ -1,0 +1,19 @@
+Konzept;Szenario;Masse_g;beste_Verschaltung;i_opt;t_gesamt_s;v_max_m_s;v_Aufprall_m_s;Anfahrkraft_N;a_Start_m_s2;Anfahrreserve
+A  1 Motor FF-130SH-14230, Heckantrieb, Stirnrad (Basis);sonne;260;4s;5.5;12.61;4.24;4.24;0.677;2.25;7.4
+A  1 Motor FF-130SH-14230, Heckantrieb, Stirnrad (Basis);bewoelkt;260;2s2p;5.5;28.88;1.83;1.83;0.202;0.51;2.21
+A  1 Motor FF-130SH-14230, Heckantrieb, Stirnrad (Basis);kunstlicht;260;2s2p;4.5;25.63;2.07;2.07;0.236;0.64;2.58
+A' wie A, aber Starterkit-Motor RF300CA-11400;sonne;258;4s;5.5;13.87;3.87;3.87;0.675;2.15;7.42
+A' wie A, aber Starterkit-Motor RF300CA-11400;bewoelkt;258;2s2p;5.5;29.57;1.75;1.75;0.224;0.57;2.46
+A' wie A, aber Starterkit-Motor RF300CA-11400;kunstlicht;258;4s;10.0;25.51;2.16;2.16;0.259;0.6;2.85
+B  1 Motor, Leichtbau-Chassis (-15 g), Riemen eta 0,92;sonne;245;4s;5.5;12.17;4.34;4.34;0.708;2.51;8.13
+B  1 Motor, Leichtbau-Chassis (-15 g), Riemen eta 0,92;bewoelkt;245;2s2p;5.5;27.44;1.89;1.89;0.211;0.59;2.43
+B  1 Motor, Leichtbau-Chassis (-15 g), Riemen eta 0,92;kunstlicht;245;2s2p;4.5;24.39;2.14;2.14;0.246;0.73;2.83
+C  2 Motoren FF-130SH-14230 (Allrad, +30 g);sonne;290;4s;6.0;13.03;4.14;4.14;0.683;1.95;6.33
+C  2 Motoren FF-130SH-14230 (Allrad, +30 g);bewoelkt;290;-;;;;;;;
+C  2 Motoren FF-130SH-14230 (Allrad, +30 g);kunstlicht;290;2s2p;5.5;29.65;1.82;1.82;0.236;0.53;2.19
+D  wie A, nur 2 Module in Reihe (-72 g);sonne;188;2s;3.5;17.2;2.98;2.98;0.41;1.83;5.84
+D  wie A, nur 2 Module in Reihe (-72 g);bewoelkt;188;-;;;;;;;
+D  wie A, nur 2 Module in Reihe (-72 g);kunstlicht;188;2p;3.0;45.11;1.22;1.21;0.147;0.51;2.1
+E  wie A, Leichtbau-Zellen statt Kit-Module;sonne;148;4s;4.0;10.79;5.17;5.17;0.479;2.76;8.18
+E  wie A, Leichtbau-Zellen statt Kit-Module;bewoelkt;148;2s2p;4.5;23.12;2.27;2.27;0.165;0.79;2.82
+E  wie A, Leichtbau-Zellen statt Kit-Module;kunstlicht;148;2s2p;4.0;20.79;2.47;2.47;0.21;1.07;3.58

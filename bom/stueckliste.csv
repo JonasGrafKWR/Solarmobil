@@ -1,0 +1,30 @@
+Pos;Baugruppe;Bezeichnung;Spezifikation;Stueck;Masse_je_Stueck_g;Masse_gesamt_g;Herkunft_Masse;Preis_gesamt_EUR_Schaetzung;Bezug_Bemerkung
+1;Druckteil;Deck / Hauptrahmen;01_deck_hauptrahmen.stl, ASA (alternativ PETG HF);1;33.35;33.35;CAD;0.95;ca. 34 g Filament
+2;Druckteil;Rad;02_rad.stl, PLA Basic;4;2.36;9.44;CAD;0.25;
+3;Druckteil;Stossfaengertraeger;03_stossfaengertraeger.stl, PETG HF;2;3.45;6.90;CAD;0.20;
+4;Druckteil;Schaltstange;04_schaltstange.stl, PETG HF;2;2.24;4.48;CAD;0.12;
+5;Druckteil;Federteller;05_federteller.stl, PETG HF;2;0.10;0.20;CAD;0.01;
+6;Druckteil;Schaltbasis;06_schaltbasis.stl, PETG HF;1;4.87;4.87;CAD;0.13;
+7;Druckteil;Schaltschieber;07_schaltschieber.stl, PETG HF;1;2.18;2.18;CAD;0.06;
+8;Druckteil;Modulklammer;08_modulklammer.stl, PETG HF;8;0.19;1.52;CAD;0.04;
+9;Druckteil;Distanzhuelse Fuehrung;09_distanzhuelse_fuehrung.stl, PETG HF;2;0.11;0.22;CAD;0.01;
+10;Druckteil;Ritzel z12 (Variante 2);10_ritzel_z12_V2_ausgewogen.stl, PLA Basic, 0,2-mm-Duese;1;0.36;0.36;CAD;0.01;Varianten z14 und z10 zusaetzlich drucken
+11;Druckteil;Abtriebsrad z60 (Variante 2);11_abtriebsrad_z60_V2_ausgewogen.stl, PLA Basic, 0,2-mm-Duese;1;3.12;3.12;CAD;0.09;Varianten z58 und z62 zusaetzlich drucken
+12;Antrieb;Gleichstrommotor Mabuchi FF-130SH-14230;2.5-10 V / Welle d2 mm / 2 x M2 im Abstand 12.4 mm;1;24.00;24.00;Datenblatt;4.00;Wicklungscode 14230 beim Kauf pruefen - ersatzweise Starterkit-Motor RF300
+13;Solar;Solarmodul Starterkit;Angabe 2 V / 0,6 A - Abmessungen und Masse NICHT dokumentiert;4;36.00;144.00;ANNAHME;0.00;im Starterkit enthalten - vor dem Bau messen und wiegen
+14;Fahrwerk;Achse;Rundstab Aluminium d3 x 122 mm (kein CFK);2;2.30;4.60;berechnet;1.50;aus 1 m Stab absaegen und entgraten
+15;Fahrwerk;Rillenkugellager MR63ZZ;3 x 6 x 2,5 mm;6;0.20;1.20;Haendlerangabe;6.00;4 Achslager + 2 Fuehrungsrollen - entfetten und mit duennem Oel schmieren
+16;Fahrwerk;O-Ring 45 x 2 NBR 70;Reifen;4;0.37;1.48;berechnet;2.00;
+17;Fuehrung;Zylinderschraube M3 x 20;Stahl verzinkt;2;1.10;2.20;berechnet;0.20;traegt die Fuehrungsrolle
+18;Umkehr;Mikroschalter Omron D2F-L;Wechsler, Scharnierhebel, 2 A / 30 V DC, OF max 0,78 N;2;0.50;1.00;Datenblatt;4.00;Loetanschluss-Ausfuehrung D2F-L-D bevorzugt
+19;Umkehr;Druckfeder;Draht 0,25 mm, Aussen-d 4,5-5 mm, L0 ca. 36 mm, ca. 14 Windungen, Rate ca. 0,03-0,04 N/mm;2;0.20;0.40;ANNAHME;1.50;aus Federsortiment - ueber Abmessungen auswaehlen
+20;Umkehr;Scheibenmagnet Neodym d4 x 2 mm;N45, axial magnetisiert;2;0.19;0.38;berechnet;0.60;
+21;Umkehr;Schraube M3 x 8 Stahl verzinkt (magnetisch);Endanschlag und Magnet-Gegenpol;2;0.60;1.20;ANNAHME;0.10;kein Edelstahl A2
+22;Umkehr;Schaumstoffpuffer;40 x 20 x 15 mm, Zellkautschuk/EVA, Auswahl im Fallversuch;2;0.30;0.60;ANNAHME;1.00;aus Platte schneiden, Loch d5,5 fuer die Stange
+23;Elektrik;Stiftleiste 1 x 4, Raster 2,54 mm, mit 2 Steckbruecken;;1;0.50;0.50;ANNAHME;0.50;Umschaltung 4s / 2s2p und Hauptschalter
+24;Elektrik;Litze 0,14 mm2 rot/schwarz, Loetzinn, Schrumpfschlauch;ca. 1 m;1;5.50;5.50;ANNAHME;1.50;
+25;Verbindung;Schraube M2 x 8 selbstschneidend (Kunststoff);Basis 4, Traeger 4, Klammern 8;16;0.15;2.40;ANNAHME;2.00;
+26;Verbindung;Schraube M2 x 10 mit Mutter und Scheibe;Mikroschalter 4;4;0.25;1.00;ANNAHME;0.80;
+27;Verbindung;Schraube M2 x 4;Motor 2 (max. 2 mm Einschraubtiefe im Motor!);2;0.15;0.30;ANNAHME;0.30;Plattendicke 2.5 mm + 1.5 mm im Motorgewinde
+28;Verbindung;Doppelseitiges Klebeband, Sekundenkleber;Module auf Deck, Federteller, Achssitze;1;2.00;2.00;ANNAHME;2.00;
+;;SUMME;;;;259.40;CAD 66.64 g + Kaufteile/Annahmen 192.76 g;29.87;ohne Starterkit (Module, ggf. Motor) und ohne Versand - Preise sind Schaetzwerte

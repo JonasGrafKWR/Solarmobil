@@ -1,0 +1,104 @@
+C:\Users\Jonas\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\4373c39a-4161-48f9-9bee-f31d56ccb375\29afa420-1743-4e84-b9eb-280f5aea64cd\scratch-2026-11-14-e90f7e\SolarMobil_Expert\simulation\gear_optimizer.py:199: RuntimeWarning: All-NaN slice encountered
+  vi = np.nanmax(res["v_impact"], axis=1)
+== Studie 1: Motor x Verschaltung x Licht ==
+-- sonne: beste Kombinationen
+   FF-130RH-15210     4s    i=8.5  t= 12.58 s  v_max=4.26 m/s  U_mot=8.03 V  im Bereich: NEIN (>4 V)
+   FF-130SH-14230     4s    i=5.5  t= 12.61 s  v_max=4.24 m/s  U_mot=8.06 V  im Bereich: ja
+   RF300CA-14270      4s    i=8.5  t= 12.78 s  v_max=4.28 m/s  U_mot=8.0 V  im Bereich: NEIN (>4 V)
+   RF300FA-12350      4s    i=5.5  t= 13.31 s  v_max=3.98 m/s  U_mot=8.14 V  im Bereich: NEIN (>6 V)
+   RF300SA-12350      4s    i=4.5  t= 13.33 s  v_max=4.06 m/s  U_mot=8.03 V  im Bereich: NEIN (>6 V)
+   RF300CA-11400@3V   4s    i=5.5  t= 13.90 s  v_max=3.87 m/s  U_mot=8.12 V  im Bereich: NEIN (>6 V)
+-- bewoelkt: beste Kombinationen
+   RF300CA-09550      4s    i=8.5  t= 27.42 s  v_max=1.92 m/s  U_mot=7.36 V  im Bereich: NEIN (>6 V)
+   RF300FA-11420      4s    i=9.5  t= 27.71 s  v_max=1.93 m/s  U_mot=7.28 V  im Bereich: NEIN (>5 V)
+   RF300CA-14270      2s2p  i=8.5  t= 28.21 s  v_max=1.9 m/s  U_mot=3.6 V  im Bereich: ja
+   RF300CA-10460      4s    i=10.0 t= 28.40 s  v_max=1.92 m/s  U_mot=7.17 V  im Bereich: NEIN (>6 V)
+   RF300FA-12350      2s2p  i=5.0  t= 28.75 s  v_max=1.84 m/s  U_mot=3.64 V  im Bereich: ja
+   FF-130SH-14230     2s2p  i=5.5  t= 28.88 s  v_max=1.83 m/s  U_mot=3.59 V  im Bereich: ja
+-- kunstlicht: beste Kombinationen
+   RF300CA-14270      2s2p  i=7.0  t= 24.88 s  v_max=2.16 m/s  U_mot=3.54 V  im Bereich: ja
+   RF300FA-11420      4s    i=8.0  t= 25.07 s  v_max=2.16 m/s  U_mot=7.09 V  im Bereich: NEIN (>5 V)
+   RF300CA-11400@3V   4s    i=10.0 t= 25.58 s  v_max=2.16 m/s  U_mot=7.0 V  im Bereich: NEIN (>6 V)
+   RF300CA-09550      4s    i=7.5  t= 25.61 s  v_max=2.05 m/s  U_mot=7.25 V  im Bereich: NEIN (>6 V)
+   FF-130SH-14230     2s2p  i=4.5  t= 25.63 s  v_max=2.07 m/s  U_mot=3.54 V  im Bereich: ja
+   FF-130RH-15210     2s2p  i=7.0  t= 25.77 s  v_max=2.07 m/s  U_mot=3.5 V  im Bereich: ja
+
+== Studie 2: Uebersetzungs-Sweep FF-130SH-14230 ==
+   sonne      4s   : i_opt = 5.50, t = 12.61 s
+   sonne      2s2p : i_opt = 3.25, t = 17.85 s
+   bewoelkt   2s2p : i_opt = 5.50, t = 28.88 s
+   kunstlicht 2s2p : i_opt = 4.75, t = 25.59 s
+   kunstlicht 4s   : i_opt = 10.00, t = 29.60 s
+
+== Studie 3: Raddurchmesser ==
+   {'Verschaltung': '4s', 'Szenario': 'sonne', 'Rad_d_mm': 20, 'i_opt': 2.0, 'i_opt/r_1_mm': np.float64(0.2), 't_gesamt_s': 12.71, 'Achse_ueber_Schiene': 'NEIN (Portal-/Stummelachse noetig)'}
+   {'Verschaltung': '4s', 'Szenario': 'sonne', 'Rad_d_mm': 30, 'i_opt': 3.5, 'i_opt/r_1_mm': np.float64(0.233), 't_gesamt_s': 12.64, 'Achse_ueber_Schiene': 'NEIN (Portal-/Stummelachse noetig)'}
+   {'Verschaltung': '4s', 'Szenario': 'sonne', 'Rad_d_mm': 40, 'i_opt': 4.5, 'i_opt/r_1_mm': np.float64(0.225), 't_gesamt_s': 12.6, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '4s', 'Szenario': 'sonne', 'Rad_d_mm': 44, 'i_opt': 5.0, 'i_opt/r_1_mm': np.float64(0.227), 't_gesamt_s': 12.61, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '4s', 'Szenario': 'sonne', 'Rad_d_mm': 50, 'i_opt': 5.5, 'i_opt/r_1_mm': np.float64(0.22), 't_gesamt_s': 12.61, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '4s', 'Szenario': 'sonne', 'Rad_d_mm': 60, 'i_opt': 6.5, 'i_opt/r_1_mm': np.float64(0.217), 't_gesamt_s': 12.61, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'Rad_d_mm': 20, 'i_opt': 2.0, 'i_opt/r_1_mm': np.float64(0.2), 't_gesamt_s': 25.73, 'Achse_ueber_Schiene': 'NEIN (Portal-/Stummelachse noetig)'}
+   {'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'Rad_d_mm': 30, 'i_opt': 3.0, 'i_opt/r_1_mm': np.float64(0.2), 't_gesamt_s': 25.67, 'Achse_ueber_Schiene': 'NEIN (Portal-/Stummelachse noetig)'}
+   {'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'Rad_d_mm': 40, 'i_opt': 4.0, 'i_opt/r_1_mm': np.float64(0.2), 't_gesamt_s': 25.67, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'Rad_d_mm': 44, 'i_opt': 4.0, 'i_opt/r_1_mm': np.float64(0.182), 't_gesamt_s': 25.6, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'Rad_d_mm': 50, 'i_opt': 4.5, 'i_opt/r_1_mm': np.float64(0.18), 't_gesamt_s': 25.63, 'Achse_ueber_Schiene': 'ja'}
+   {'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'Rad_d_mm': 60, 'i_opt': 5.5, 'i_opt/r_1_mm': np.float64(0.183), 't_gesamt_s': 25.62, 'Achse_ueber_Schiene': 'ja'}
+
+== Studie 4: Unsicherheiten (Monte-Carlo, n = 300) ==
+   sonne      4s    i=3.0 : Ausfall   0.0 %  t50=16.89  t90=20.38  v_Aufprall90=4.18
+   sonne      4s    i=4.0 : Ausfall   0.0 %  t50=14.49  t90=16.72  v_Aufprall90=4.55
+   sonne      4s    i=4.5 : Ausfall   0.0 %  t50=13.89  t90=15.76  v_Aufprall90=4.56
+   sonne      4s    i=5.0 : Ausfall   0.0 %  t50=13.54  t90=15.1  v_Aufprall90=4.48
+   sonne      4s    i=5.5 : Ausfall   0.0 %  t50=13.39  t90=14.73  v_Aufprall90=4.34
+   sonne      4s    i=6.0 : Ausfall   0.0 %  t50=13.41  t90=14.53  v_Aufprall90=4.18
+   sonne      4s    i=7.0 : Ausfall   0.0 %  t50=13.87  t90=14.78  v_Aufprall90=3.83
+   sonne      4s    i=8.0 : Ausfall   0.0 %  t50=14.76  t90=15.59  v_Aufprall90=3.46
+   bewoelkt   2s2p  i=3.0 : Ausfall  73.0 %  t50=38.74  t90=52.4  v_Aufprall90=1.9
+   bewoelkt   2s2p  i=4.0 : Ausfall  48.3 %  t50=34.87  t90=44.83  v_Aufprall90=2.06
+   bewoelkt   2s2p  i=4.5 : Ausfall  40.3 %  t50=32.93  t90=42.6  v_Aufprall90=2.05
+   bewoelkt   2s2p  i=5.0 : Ausfall  31.3 %  t50=31.98  t90=39.5  v_Aufprall90=1.99
+   bewoelkt   2s2p  i=5.5 : Ausfall  25.3 %  t50=31.97  t90=38.54  v_Aufprall90=1.91
+   bewoelkt   2s2p  i=6.0 : Ausfall  24.0 %  t50=32.1  t90=37.72  v_Aufprall90=1.83
+   bewoelkt   2s2p  i=7.0 : Ausfall  35.7 %  t50=33.4  t90=37.97  v_Aufprall90=1.66
+   bewoelkt   2s2p  i=8.0 : Ausfall  66.7 %  t50=35.71  t90=39.53  v_Aufprall90=1.53
+   kunstlicht 2s2p  i=3.0 : Ausfall  37.7 %  t50=34.1  t90=46.27  v_Aufprall90=2.15
+   kunstlicht 2s2p  i=4.0 : Ausfall  17.3 %  t50=29.74  t90=36.79  v_Aufprall90=2.2
+   kunstlicht 2s2p  i=4.5 : Ausfall  11.3 %  t50=28.67  t90=36.53  v_Aufprall90=2.13
+   kunstlicht 2s2p  i=5.0 : Ausfall   9.7 %  t50=28.52  t90=34.72  v_Aufprall90=2.04
+   kunstlicht 2s2p  i=5.5 : Ausfall   8.7 %  t50=28.85  t90=34.45  v_Aufprall90=1.94
+   kunstlicht 2s2p  i=6.0 : Ausfall  10.0 %  t50=29.62  t90=34.78  v_Aufprall90=1.84
+   kunstlicht 2s2p  i=7.0 : Ausfall  26.3 %  t50=31.78  t90=35.96  v_Aufprall90=1.64
+   kunstlicht 2s2p  i=8.0 : Ausfall  66.7 %  t50=34.69  t90=37.82  v_Aufprall90=1.49
+   kunstlicht 4s    i=3.0 : Ausfall 100.0 %  t50=  t90=  v_Aufprall90=
+   kunstlicht 4s    i=4.0 : Ausfall  98.3 %  t50=46.92  t90=55.33  v_Aufprall90=1.48
+   kunstlicht 4s    i=4.5 : Ausfall  96.0 %  t50=47.23  t90=53.3  v_Aufprall90=1.64
+   kunstlicht 4s    i=5.0 : Ausfall  94.0 %  t50=43.13  t90=49.47  v_Aufprall90=1.72
+   kunstlicht 4s    i=5.5 : Ausfall  91.0 %  t50=40.65  t90=47.9  v_Aufprall90=1.77
+   kunstlicht 4s    i=6.0 : Ausfall  86.7 %  t50=37.44  t90=45.19  v_Aufprall90=1.85
+   kunstlicht 4s    i=7.0 : Ausfall  79.3 %  t50=34.75  t90=44.57  v_Aufprall90=2.03
+   kunstlicht 4s    i=8.0 : Ausfall  74.0 %  t50=32.48  t90=40.29  v_Aufprall90=2.15
+
+== Studie 5: Konzeptvergleich ==
+   A  1 Motor FF-130SH-14230, Heckantrieb, Stirnrad (Ba sonne      m=260 g  4s    i=5.5  t=12.61 s  a0=2.25  v_Aufprall=4.24
+   A  1 Motor FF-130SH-14230, Heckantrieb, Stirnrad (Ba bewoelkt   m=260 g  2s2p  i=5.5  t=28.88 s  a0=0.51  v_Aufprall=1.83
+   A  1 Motor FF-130SH-14230, Heckantrieb, Stirnrad (Ba kunstlicht m=260 g  2s2p  i=4.5  t=25.63 s  a0=0.64  v_Aufprall=2.07
+   A' wie A, aber Starterkit-Motor RF300CA-11400        sonne      m=258 g  4s    i=5.5  t=13.87 s  a0=2.15  v_Aufprall=3.87
+   A' wie A, aber Starterkit-Motor RF300CA-11400        bewoelkt   m=258 g  2s2p  i=5.5  t=29.57 s  a0=0.57  v_Aufprall=1.75
+   A' wie A, aber Starterkit-Motor RF300CA-11400        kunstlicht m=258 g  4s    i=10.0  t=25.51 s  a0=0.6  v_Aufprall=2.16
+   B  1 Motor, Leichtbau-Chassis (-15 g), Riemen eta 0, sonne      m=245 g  4s    i=5.5  t=12.17 s  a0=2.51  v_Aufprall=4.34
+   B  1 Motor, Leichtbau-Chassis (-15 g), Riemen eta 0, bewoelkt   m=245 g  2s2p  i=5.5  t=27.44 s  a0=0.59  v_Aufprall=1.89
+   B  1 Motor, Leichtbau-Chassis (-15 g), Riemen eta 0, kunstlicht m=245 g  2s2p  i=4.5  t=24.39 s  a0=0.73  v_Aufprall=2.14
+   C  2 Motoren FF-130SH-14230 (Allrad, +30 g)          sonne      m=290 g  4s    i=6.0  t=13.03 s  a0=1.95  v_Aufprall=4.14
+   C  2 Motoren FF-130SH-14230 (Allrad, +30 g)          bewoelkt   m=290 g  -     i=  t= s  a0=  v_Aufprall=
+   C  2 Motoren FF-130SH-14230 (Allrad, +30 g)          kunstlicht m=290 g  2s2p  i=5.5  t=29.65 s  a0=0.53  v_Aufprall=1.82
+   D  wie A, nur 2 Module in Reihe (-72 g)              sonne      m=188 g  2s    i=3.5  t=17.2 s  a0=1.83  v_Aufprall=2.98
+   D  wie A, nur 2 Module in Reihe (-72 g)              bewoelkt   m=188 g  -     i=  t= s  a0=  v_Aufprall=
+   D  wie A, nur 2 Module in Reihe (-72 g)              kunstlicht m=188 g  2p    i=3.0  t=45.11 s  a0=0.51  v_Aufprall=1.21
+   E  wie A, Leichtbau-Zellen statt Kit-Module          sonne      m=148 g  4s    i=4.0  t=10.79 s  a0=2.76  v_Aufprall=5.17
+   E  wie A, Leichtbau-Zellen statt Kit-Module          bewoelkt   m=148 g  2s2p  i=4.5  t=23.12 s  a0=0.79  v_Aufprall=2.27
+   E  wie A, Leichtbau-Zellen statt Kit-Module          kunstlicht m=148 g  2s2p  i=4.0  t=20.79 s  a0=1.07  v_Aufprall=2.47
+
+== Zahnradvarianten ==
+   {'Variante': '1 Schnell (gutes Licht)', 'i_Ziel': 4.1, 'Modul': 0.7, 'z1': 14, 'z2': 58, 'i': 4.143, 'x1': 0.21, 'x2': -0.21, 'Kopfkuerzung1_mm': 0.02, 'd1_mm': 9.8, 'da1_mm': 11.45, 'df1_mm': 8.34, 'd2_mm': 40.6, 'da2_mm': 41.71, 'df2_mm': 38.56, 'Achsabstand_mm': 25.3, 'Ueberdeckung': 1.41, 'Kopfspiel1_mm': 0.3, 'Kopfspiel2_mm': 0.28, 'Zahnkopfdicke1_mm': 0.4, 'Zahnkopfdicke2_mm': 0.57, 'Zahndicke_Teilkreis_mm': 1.1, 'Bodenfreiheit_Rad2_mm': 4.14, 'passt_unter_Achse': 'ja'}
+   {'Variante': '2 Ausgewogen', 'i_Ziel': 5.0, 'Modul': 0.7, 'z1': 12, 'z2': 60, 'i': 5.0, 'x1': 0.32, 'x2': -0.32, 'Kopfkuerzung1_mm': 0.07, 'd1_mm': 8.4, 'da1_mm': 10.11, 'df1_mm': 7.1, 'd2_mm': 42.0, 'da2_mm': 42.95, 'df2_mm': 39.8, 'Achsabstand_mm': 25.3, 'Ueberdeckung': 1.32, 'Kopfspiel1_mm': 0.35, 'Kopfspiel2_mm': 0.28, 'Zahnkopfdicke1_mm': 0.4, 'Zahnkopfdicke2_mm': 0.58, 'Zahndicke_Teilkreis_mm': 1.1, 'Bodenfreiheit_Rad2_mm': 3.52, 'passt_unter_Achse': 'ja'}
+   {'Variante': '3 Anfahrstark (schwaches Licht)', 'i_Ziel': 6.2, 'Modul': 0.7, 'z1': 10, 'z2': 62, 'i': 6.2, 'x1': 0.44, 'x2': -0.44, 'Kopfkuerzung1_mm': 0.13, 'd1_mm': 7.0, 'da1_mm': 8.76, 'df1_mm': 5.87, 'd2_mm': 43.4, 'da2_mm': 44.18, 'df2_mm': 41.03, 'Achsabstand_mm': 25.3, 'Ueberdeckung': 1.2, 'Kopfspiel1_mm': 0.41, 'Kopfspiel2_mm': 0.28, 'Zahnkopfdicke1_mm': 0.41, 'Zahnkopfdicke2_mm': 0.58, 'Zahndicke_Teilkreis_mm': 1.1, 'Bodenfreiheit_Rad2_mm': 2.91, 'passt_unter_Achse': 'NEIN'}

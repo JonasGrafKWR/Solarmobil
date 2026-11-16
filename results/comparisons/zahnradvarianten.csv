@@ -1,0 +1,4 @@
+Variante;i_Ziel;Modul;z1;z2;i;x1;x2;Kopfkuerzung1_mm;d1_mm;da1_mm;df1_mm;d2_mm;da2_mm;df2_mm;Achsabstand_mm;Ueberdeckung;Kopfspiel1_mm;Kopfspiel2_mm;Zahnkopfdicke1_mm;Zahnkopfdicke2_mm;Zahndicke_Teilkreis_mm;Bodenfreiheit_Rad2_mm;passt_unter_Achse
+1 Schnell (gutes Licht);4.1;0.7;14;58;4.143;0.21;-0.21;0.02;9.8;11.45;8.34;40.6;41.71;38.56;25.3;1.41;0.3;0.28;0.4;0.57;1.1;4.14;ja
+2 Ausgewogen;5.0;0.7;12;60;5.0;0.32;-0.32;0.07;8.4;10.11;7.1;42.0;42.95;39.8;25.3;1.32;0.35;0.28;0.4;0.58;1.1;3.52;ja
+3 Anfahrstark (schwaches Licht);6.2;0.7;10;62;6.2;0.44;-0.44;0.13;7.0;8.76;5.87;43.4;44.18;41.03;25.3;1.2;0.41;0.28;0.41;0.58;1.1;2.91;NEIN

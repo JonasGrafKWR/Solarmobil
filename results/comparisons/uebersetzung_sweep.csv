@@ -1,0 +1,166 @@
+Verschaltung;Szenario;i;Anfahrkraft_N;Anfahrreserve;a_Start_m_s2;v_theor_Leerlauf_m_s;v_Beharrung_m_s;v_max_im_Rennen_m_s;t_Durchfahrt_1_s;t_gesamt_s;v_Aufprall_max_m_s;v_Tunnel_min_m_s;Status
+4s;sonne;2.0;0.246;2.69;0.69;14.28;7.08;3.06;5.87;19.94;3.06;1.98;Ziel erreicht
+4s;sonne;2.25;0.277;3.03;0.8;12.69;7.19;3.31;5.42;18.4;3.31;2.17;Ziel erreicht
+4s;sonne;2.5;0.308;3.37;0.92;11.42;7.17;3.54;5.06;17.2;3.54;2.34;Ziel erreicht
+4s;sonne;2.75;0.339;3.7;1.03;10.39;7.05;3.75;4.77;16.23;3.75;2.49;Ziel erreicht
+4s;sonne;3.0;0.37;4.04;1.14;9.52;6.87;3.92;4.53;15.43;3.92;2.63;Ziel erreicht
+4s;sonne;3.25;0.4;4.38;1.25;8.79;6.66;4.08;4.33;14.78;4.08;2.77;Ziel erreicht
+4s;sonne;3.5;0.431;4.71;1.37;8.16;6.42;4.2;4.16;14.24;4.2;2.89;Ziel erreicht
+4s;sonne;3.75;0.462;5.05;1.48;7.62;6.18;4.3;4.01;13.8;4.3;2.99;Ziel erreicht
+4s;sonne;4.0;0.493;5.38;1.59;7.14;5.95;4.36;3.89;13.44;4.36;3.09;Ziel erreicht
+4s;sonne;4.25;0.523;5.72;1.7;6.72;5.72;4.4;3.79;13.15;4.4;3.16;Ziel erreicht
+4s;sonne;4.5;0.554;6.06;1.81;6.35;5.49;4.41;3.7;12.94;4.41;3.22;Ziel erreicht
+4s;sonne;4.75;0.585;6.39;1.92;6.01;5.28;4.4;3.63;12.78;4.4;3.27;Ziel erreicht
+4s;sonne;5.0;0.616;6.73;2.03;5.71;5.08;4.36;3.58;12.68;4.36;3.3;Ziel erreicht
+4s;sonne;5.25;0.647;7.07;2.14;5.44;4.89;4.31;3.54;12.62;4.31;3.31;Ziel erreicht
+4s;sonne;5.5;0.677;7.4;2.25;5.19;4.71;4.24;3.51;12.61;4.24;3.3;Ziel erreicht
+4s;sonne;5.75;0.708;7.74;2.35;4.97;4.54;4.16;3.49;12.63;4.16;3.28;Ziel erreicht
+4s;sonne;6.0;0.739;8.08;2.46;4.76;4.38;4.08;3.48;12.69;4.08;3.24;Ziel erreicht
+4s;sonne;6.25;0.77;8.41;2.57;4.57;4.23;3.99;3.48;12.78;3.99;3.19;Ziel erreicht
+4s;sonne;6.5;0.801;8.75;2.67;4.39;4.08;3.89;3.49;12.9;3.89;3.13;Ziel erreicht
+4s;sonne;6.75;0.831;9.09;2.78;4.23;3.95;3.79;3.52;13.05;3.79;3.06;Ziel erreicht
+4s;sonne;7.0;0.841;9.2;2.81;4.08;3.82;3.7;3.55;13.24;3.7;2.97;Ziel erreicht
+4s;sonne;7.25;0.841;9.2;2.8;3.94;3.71;3.6;3.59;13.44;3.6;2.89;Ziel erreicht
+4s;sonne;7.5;0.841;9.2;2.79;3.81;3.59;3.51;3.64;13.67;3.51;2.79;Ziel erreicht
+4s;sonne;7.75;0.841;9.2;2.79;3.69;3.49;3.42;3.7;13.92;3.42;2.69;Ziel erreicht
+4s;sonne;8.0;0.841;9.2;2.78;3.57;3.39;3.33;3.76;14.19;3.33;2.6;Ziel erreicht
+4s;sonne;8.25;0.841;9.2;2.77;3.46;3.29;3.25;3.83;14.47;3.25;2.5;Ziel erreicht
+4s;sonne;8.5;0.841;9.2;2.76;3.36;3.2;3.17;3.89;14.77;3.17;2.4;Ziel erreicht
+4s;sonne;8.75;0.841;9.2;2.75;3.26;3.12;3.09;3.97;15.07;3.09;2.3;Ziel erreicht
+4s;sonne;9.0;0.841;9.2;2.74;3.17;3.04;3.01;4.04;15.39;3.01;2.2;Ziel erreicht
+4s;sonne;9.25;0.841;9.2;2.74;3.09;2.96;2.94;4.12;15.71;2.94;2.11;Ziel erreicht
+4s;sonne;9.5;0.841;9.2;2.73;3.01;2.89;2.87;4.19;16.05;2.87;2.02;Ziel erreicht
+4s;sonne;9.75;0.841;9.2;2.72;2.93;2.82;2.8;4.28;16.39;2.8;1.93;Ziel erreicht
+4s;sonne;10.0;0.841;9.2;2.71;2.86;2.75;2.74;4.36;16.73;2.74;1.84;Ziel erreicht
+2s2p;sonne;2.0;0.315;3.44;0.94;6.96;4.39;2.87;5.6;19.87;2.87;2.05;Ziel erreicht
+2s2p;sonne;2.25;0.354;3.87;1.09;6.19;4.23;2.95;5.33;19.06;2.95;2.14;Ziel erreicht
+2s2p;sonne;2.5;0.394;4.3;1.23;5.57;4.04;2.99;5.14;18.51;2.99;2.21;Ziel erreicht
+2s2p;sonne;2.75;0.433;4.73;1.38;5.06;3.85;3.0;5.0;18.14;3.0;2.26;Ziel erreicht
+2s2p;sonne;3.0;0.472;5.16;1.52;4.64;3.66;2.99;4.9;17.93;2.99;2.28;Ziel erreicht
+2s2p;sonne;3.25;0.512;5.59;1.67;4.28;3.48;2.95;4.84;17.85;2.95;2.28;Ziel erreicht
+2s2p;sonne;3.5;0.551;6.02;1.81;3.98;3.31;2.89;4.8;17.87;2.89;2.26;Ziel erreicht
+2s2p;sonne;3.75;0.59;6.45;1.95;3.71;3.15;2.82;4.8;17.99;2.82;2.22;Ziel erreicht
+2s2p;sonne;4.0;0.63;6.88;2.09;3.48;3.0;2.75;4.82;18.2;2.75;2.16;Ziel erreicht
+2s2p;sonne;4.25;0.669;7.31;2.24;3.27;2.86;2.66;4.86;18.46;2.66;2.09;Ziel erreicht
+2s2p;sonne;4.5;0.708;7.74;2.38;3.09;2.73;2.58;4.92;18.8;2.58;2.01;Ziel erreicht
+2s2p;sonne;4.75;0.748;8.17;2.52;2.93;2.61;2.49;5.0;19.19;2.49;1.92;Ziel erreicht
+2s2p;sonne;5.0;0.787;8.6;2.66;2.78;2.5;2.41;5.09;19.65;2.41;1.82;Ziel erreicht
+2s2p;sonne;5.25;0.826;9.03;2.8;2.65;2.4;2.33;5.2;20.13;2.33;1.72;Ziel erreicht
+2s2p;sonne;5.5;0.841;9.2;2.84;2.53;2.3;2.25;5.32;20.68;2.25;1.62;Ziel erreicht
+2s2p;sonne;5.75;0.841;9.2;2.84;2.42;2.22;2.18;5.45;21.25;2.18;1.52;Ziel erreicht
+2s2p;sonne;6.0;0.841;9.2;2.83;2.32;2.14;2.1;5.6;21.87;2.1;1.41;Ziel erreicht
+2s2p;sonne;6.25;0.841;9.2;2.83;2.23;2.06;2.03;5.75;22.52;2.03;1.31;Ziel erreicht
+2s2p;sonne;6.5;0.841;9.2;2.82;2.14;1.99;1.97;5.92;23.22;1.97;1.21;Ziel erreicht
+2s2p;sonne;6.75;0.841;9.2;2.81;2.06;1.92;1.91;6.1;23.93;1.91;1.12;Ziel erreicht
+2s2p;sonne;7.0;0.841;9.2;2.81;1.99;1.86;1.85;6.28;24.71;1.85;1.02;Ziel erreicht
+2s2p;sonne;7.25;0.841;9.2;2.8;1.92;1.8;1.79;6.48;25.52;1.79;0.93;Ziel erreicht
+2s2p;sonne;7.5;0.841;9.2;2.79;1.86;1.74;1.74;6.69;26.37;1.74;0.83;Ziel erreicht
+2s2p;sonne;7.75;0.841;9.2;2.79;1.8;1.69;1.69;6.92;27.28;1.69;0.74;Ziel erreicht
+2s2p;sonne;8.0;0.841;9.2;2.78;1.74;1.64;1.64;7.16;28.26;1.64;0.65;Ziel erreicht
+2s2p;sonne;8.25;0.841;9.2;2.77;1.69;1.6;1.59;7.43;29.34;1.59;0.54;Ziel erreicht
+2s2p;sonne;8.5;0.841;9.2;2.76;1.64;1.55;1.55;7.74;30.58;1.55;0.43;Ziel erreicht
+2s2p;sonne;8.75;0.841;9.2;2.75;1.59;1.51;1.51;8.11;32.07;1.51;0.31;Ziel erreicht
+2s2p;sonne;9.0;0.841;9.2;2.74;1.55;1.47;1.47;8.86;35.06;1.47;0.05;Ziel erreicht
+2s2p;sonne;9.25;0.841;9.2;2.74;1.5;1.43;1.43;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;sonne;9.5;0.841;9.2;2.73;1.46;1.4;1.39;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;sonne;9.75;0.841;9.2;2.72;1.43;1.36;1.36;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;sonne;10.0;0.841;9.2;2.71;1.39;1.33;1.33;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;2.0;0.073;0.8;0.05;6.5;1.96;0.0;;;;;kein Anlauf am Start
+2s2p;bewoelkt;2.25;0.083;0.9;0.08;5.78;2.46;0.0;;;;;kein Anlauf am Start
+2s2p;bewoelkt;2.5;0.092;1.0;0.11;5.2;2.71;0.92;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;2.75;0.101;1.1;0.15;4.73;2.8;1.05;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;3.0;0.11;1.2;0.18;4.33;2.8;1.26;13.84;48.26;1.26;0.41;Ziel erreicht
+2s2p;bewoelkt;3.25;0.119;1.31;0.22;4.0;2.75;1.43;12.01;41.93;1.43;0.61;Ziel erreicht
+2s2p;bewoelkt;3.5;0.129;1.41;0.25;3.72;2.68;1.57;10.88;37.94;1.57;0.75;Ziel erreicht
+2s2p;bewoelkt;3.75;0.138;1.51;0.28;3.47;2.59;1.68;10.06;35.14;1.68;0.87;Ziel erreicht
+2s2p;bewoelkt;4.0;0.147;1.61;0.32;3.25;2.5;1.76;9.45;33.09;1.76;0.96;Ziel erreicht
+2s2p;bewoelkt;4.25;0.156;1.71;0.35;3.06;2.41;1.82;8.98;31.58;1.82;1.04;Ziel erreicht
+2s2p;bewoelkt;4.5;0.165;1.81;0.38;2.89;2.32;1.86;8.62;30.48;1.86;1.1;Ziel erreicht
+2s2p;bewoelkt;4.75;0.175;1.91;0.42;2.74;2.24;1.88;8.34;29.71;1.88;1.14;Ziel erreicht
+2s2p;bewoelkt;5.0;0.184;2.01;0.45;2.6;2.15;1.87;8.14;29.22;1.87;1.16;Ziel erreicht
+2s2p;bewoelkt;5.25;0.193;2.11;0.48;2.48;2.08;1.86;8.0;28.95;1.86;1.16;Ziel erreicht
+2s2p;bewoelkt;5.5;0.202;2.21;0.51;2.36;2.0;1.83;7.92;28.88;1.83;1.14;Ziel erreicht
+2s2p;bewoelkt;5.75;0.211;2.31;0.55;2.26;1.93;1.8;7.88;28.96;1.8;1.12;Ziel erreicht
+2s2p;bewoelkt;6.0;0.22;2.41;0.58;2.17;1.87;1.76;7.88;29.19;1.76;1.07;Ziel erreicht
+2s2p;bewoelkt;6.25;0.23;2.51;0.61;2.08;1.8;1.72;7.92;29.55;1.72;1.02;Ziel erreicht
+2s2p;bewoelkt;6.5;0.239;2.61;0.64;2.0;1.75;1.68;8.0;30.05;1.68;0.95;Ziel erreicht
+2s2p;bewoelkt;6.75;0.248;2.71;0.67;1.93;1.69;1.64;8.12;30.64;1.64;0.88;Ziel erreicht
+2s2p;bewoelkt;7.0;0.257;2.81;0.71;1.86;1.64;1.59;8.27;31.39;1.59;0.79;Ziel erreicht
+2s2p;bewoelkt;7.25;0.266;2.91;0.74;1.79;1.59;1.55;8.46;32.26;1.55;0.69;Ziel erreicht
+2s2p;bewoelkt;7.5;0.276;3.01;0.77;1.73;1.54;1.51;8.7;33.34;1.51;0.58;Ziel erreicht
+2s2p;bewoelkt;7.75;0.285;3.11;0.8;1.68;1.5;1.47;9.04;34.77;1.47;0.45;Ziel erreicht
+2s2p;bewoelkt;8.0;0.294;3.21;0.83;1.63;1.46;1.44;9.57;37.02;1.43;0.27;Ziel erreicht
+2s2p;bewoelkt;8.25;0.303;3.31;0.86;1.58;1.42;1.4;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;8.5;0.312;3.41;0.89;1.53;1.38;1.36;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;8.75;0.321;3.51;0.92;1.49;1.35;1.33;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;9.0;0.331;3.61;0.95;1.44;1.31;1.3;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;9.25;0.34;3.71;0.98;1.41;1.28;1.26;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;9.5;0.349;3.82;1.01;1.37;1.25;1.23;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;9.75;0.358;3.92;1.04;1.33;1.22;1.21;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;bewoelkt;10.0;0.367;4.02;1.06;1.3;1.19;1.18;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;2.0;0.105;1.15;0.16;6.36;3.09;1.2;14.41;50.84;1.2;0.41;Ziel erreicht
+2s2p;kunstlicht;2.25;0.118;1.29;0.21;5.66;3.18;1.44;11.81;41.54;1.44;0.69;Ziel erreicht
+2s2p;kunstlicht;2.5;0.131;1.43;0.26;5.09;3.16;1.64;10.36;36.39;1.64;0.88;Ziel erreicht
+2s2p;kunstlicht;2.75;0.144;1.57;0.31;4.63;3.09;1.79;9.4;33.02;1.79;1.03;Ziel erreicht
+2s2p;kunstlicht;3.0;0.157;1.72;0.36;4.24;3.0;1.91;8.71;30.66;1.91;1.14;Ziel erreicht
+2s2p;kunstlicht;3.25;0.17;1.86;0.4;3.92;2.89;2.0;8.19;28.95;2.0;1.24;Ziel erreicht
+2s2p;kunstlicht;3.5;0.183;2.0;0.45;3.64;2.77;2.06;7.79;27.71;2.06;1.32;Ziel erreicht
+2s2p;kunstlicht;3.75;0.196;2.15;0.5;3.39;2.66;2.1;7.49;26.82;2.1;1.37;Ziel erreicht
+2s2p;kunstlicht;4.0;0.21;2.29;0.55;3.18;2.55;2.1;7.26;26.21;2.1;1.41;Ziel erreicht
+2s2p;kunstlicht;4.25;0.223;2.43;0.59;3.0;2.44;2.09;7.1;25.82;2.09;1.43;Ziel erreicht
+2s2p;kunstlicht;4.5;0.236;2.58;0.64;2.83;2.35;2.07;6.98;25.63;2.07;1.43;Ziel erreicht
+2s2p;kunstlicht;4.75;0.249;2.72;0.69;2.68;2.25;2.03;6.92;25.59;2.03;1.41;Ziel erreicht
+2s2p;kunstlicht;5.0;0.262;2.86;0.74;2.55;2.16;1.99;6.89;25.68;1.99;1.38;Ziel erreicht
+2s2p;kunstlicht;5.25;0.275;3.01;0.78;2.42;2.08;1.94;6.9;25.9;1.94;1.34;Ziel erreicht
+2s2p;kunstlicht;5.5;0.288;3.15;0.83;2.31;2.0;1.89;6.93;26.21;1.89;1.29;Ziel erreicht
+2s2p;kunstlicht;5.75;0.301;3.29;0.87;2.21;1.93;1.84;7.0;26.62;1.84;1.22;Ziel erreicht
+2s2p;kunstlicht;6.0;0.314;3.44;0.92;2.12;1.86;1.79;7.09;27.11;1.79;1.15;Ziel erreicht
+2s2p;kunstlicht;6.25;0.327;3.58;0.96;2.04;1.8;1.74;7.21;27.69;1.73;1.07;Ziel erreicht
+2s2p;kunstlicht;6.5;0.34;3.72;1.01;1.96;1.74;1.7;7.35;28.34;1.68;0.98;Ziel erreicht
+2s2p;kunstlicht;6.75;0.354;3.86;1.05;1.89;1.68;1.66;7.51;29.09;1.64;0.89;Ziel erreicht
+2s2p;kunstlicht;7.0;0.367;4.01;1.1;1.82;1.63;1.62;7.7;29.94;1.59;0.79;Ziel erreicht
+2s2p;kunstlicht;7.25;0.38;4.15;1.14;1.76;1.58;1.57;7.93;30.91;1.54;0.68;Ziel erreicht
+2s2p;kunstlicht;7.5;0.393;4.29;1.19;1.7;1.53;1.53;8.2;32.06;1.5;0.56;Ziel erreicht
+2s2p;kunstlicht;7.75;0.406;4.44;1.23;1.64;1.49;1.49;8.56;33.54;1.46;0.42;Ziel erreicht
+2s2p;kunstlicht;8.0;0.419;4.58;1.27;1.59;1.45;1.45;9.16;36.0;1.42;0.21;Ziel erreicht
+2s2p;kunstlicht;8.25;0.432;4.72;1.32;1.54;1.41;1.42;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;8.5;0.445;4.87;1.36;1.5;1.37;1.38;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;8.75;0.458;5.01;1.4;1.45;1.34;1.35;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;9.0;0.471;5.15;1.44;1.41;1.3;1.32;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;9.25;0.485;5.3;1.48;1.38;1.27;1.28;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;9.5;0.498;5.44;1.53;1.34;1.24;1.26;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;9.75;0.511;5.58;1.57;1.31;1.21;1.23;;;;0.0;Stillstand auf der Strecke/Tunnel
+2s2p;kunstlicht;10.0;0.524;5.73;1.61;1.27;1.18;1.2;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;2.0;0.043;0.47;-0.07;13.09;0.0;0.0;;;;;kein Anlauf am Start
+4s;kunstlicht;2.25;0.048;0.53;-0.05;11.64;0.0;0.0;;;;;kein Anlauf am Start
+4s;kunstlicht;2.5;0.054;0.59;-0.03;10.48;0.0;0.0;;;;;kein Anlauf am Start
+4s;kunstlicht;2.75;0.059;0.65;-0.01;9.52;0.0;0.0;;;;;kein Anlauf am Start
+4s;kunstlicht;3.0;0.064;0.7;0.01;8.73;1.07;0.0;;;;;kein Anlauf am Start
+4s;kunstlicht;3.25;0.07;0.76;0.03;8.06;1.7;0.0;;;;;kein Anlauf am Start
+4s;kunstlicht;3.5;0.075;0.82;0.05;7.48;2.15;0.15;;;;;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;3.75;0.081;0.88;0.07;6.98;2.51;0.17;;;;;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;4.0;0.086;0.94;0.09;6.55;2.81;0.2;;;;;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;4.25;0.091;1.0;0.11;6.16;3.05;0.22;;;;;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;4.5;0.097;1.06;0.13;5.82;3.23;0.85;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;4.75;0.102;1.11;0.15;5.51;3.35;0.92;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;5.0;0.107;1.17;0.17;5.24;3.42;0.99;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;5.25;0.113;1.23;0.19;4.99;3.44;1.05;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;5.5;0.118;1.29;0.21;4.76;3.43;1.11;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;5.75;0.123;1.35;0.23;4.55;3.39;1.17;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;6.0;0.129;1.41;0.25;4.36;3.34;1.22;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;6.25;0.134;1.47;0.27;4.19;3.28;1.27;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;6.5;0.14;1.53;0.28;4.03;3.21;1.32;;;;0.0;Stillstand auf der Strecke/Tunnel
+4s;kunstlicht;6.75;0.145;1.58;0.3;3.88;3.14;1.42;13.02;44.9;1.42;0.18;Ziel erreicht
+4s;kunstlicht;7.0;0.15;1.64;0.32;3.74;3.07;1.49;11.94;41.83;1.49;0.34;Ziel erreicht
+4s;kunstlicht;7.25;0.156;1.7;0.34;3.61;3.0;1.55;11.27;39.63;1.55;0.44;Ziel erreicht
+4s;kunstlicht;7.5;0.161;1.76;0.36;3.49;2.93;1.62;10.74;37.83;1.62;0.52;Ziel erreicht
+4s;kunstlicht;7.75;0.166;1.82;0.38;3.38;2.86;1.67;10.31;36.34;1.67;0.59;Ziel erreicht
+4s;kunstlicht;8.0;0.172;1.88;0.39;3.27;2.79;1.73;9.94;35.07;1.73;0.65;Ziel erreicht
+4s;kunstlicht;8.25;0.177;1.94;0.41;3.17;2.73;1.78;9.63;33.97;1.78;0.7;Ziel erreicht
+4s;kunstlicht;8.5;0.182;1.99;0.43;3.08;2.66;1.82;9.35;33.0;1.82;0.75;Ziel erreicht
+4s;kunstlicht;8.75;0.188;2.05;0.45;2.99;2.6;1.86;9.1;32.18;1.86;0.79;Ziel erreicht
+4s;kunstlicht;9.0;0.193;2.11;0.46;2.91;2.54;1.89;8.89;31.48;1.89;0.83;Ziel erreicht
+4s;kunstlicht;9.25;0.199;2.17;0.48;2.83;2.48;1.92;8.7;30.87;1.92;0.86;Ziel erreicht
+4s;kunstlicht;9.5;0.204;2.23;0.5;2.76;2.43;1.93;8.54;30.36;1.93;0.88;Ziel erreicht
+4s;kunstlicht;9.75;0.209;2.29;0.52;2.69;2.38;1.95;8.39;29.93;1.95;0.9;Ziel erreicht
+4s;kunstlicht;10.0;0.215;2.35;0.53;2.62;2.32;1.95;8.27;29.6;1.95;0.92;Ziel erreicht

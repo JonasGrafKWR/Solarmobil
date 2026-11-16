@@ -1,0 +1,4 @@
+Szenario;Motor;Verschaltung;G_W_m2;i;Rad_d_mm;Masse_g;Anfahrkraft_N;Anfahrreserve;a_Start_m_s2;v_Beharrung_m_s;v_max_Rennen_m_s;t_Durchfahrt_1_s;t_Durchfahrt_2_s;t_Durchfahrt_3_s;t_Durchfahrt_4_s;t_gesamt_s;v_Aufprall_max_m_s;v_Tunnel_min_m_s;Status;Herkunft;Zeitverlust_Richtungswechsel_s
+sonne;FF-130SH-14230;4s;850.0;5.0;50.0;260;0.616;6.73;2.03;5.08;4.36;3.58;3.03;3.03;3.03;12.67;4.36;3.3;Ziel erreicht;simuliert (Annahmewerte, unkalibriert);2.9
+bewoelkt;FF-130SH-14230;2s2p;150.0;5.0;50.0;260;0.184;2.01;0.45;2.15;1.87;8.14;7.03;7.02;7.02;29.21;1.87;1.15;Ziel erreicht;simuliert (Annahmewerte, unkalibriert);5.76
+kunstlicht;FF-130SH-14230;2s2p;200.0;5.0;50.0;260;0.262;2.86;0.74;2.16;1.99;6.89;6.26;6.26;6.26;25.67;1.99;1.38;Ziel erreicht;simuliert (Annahmewerte, unkalibriert);3.9

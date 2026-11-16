@@ -1,0 +1,11 @@
+{'Verschaltung': '4s', 'Szenario': 'sonne', 'G_W_m2': 850.0, 'T_Zelle_C': 50.0, 'U_oc_V': 8.58, 'I_sc_A': 0.516, 'U_mpp_V': 6.67, 'I_mpp_A': 0.456, 'P_mpp_W': 3.038, 'P_mpp_ein_Paar_im_Tunnel_W': 0.055}
+{'Verschaltung': '4s', 'Szenario': 'bewoelkt', 'G_W_m2': 150.0, 'T_Zelle_C': 25.0, 'U_oc_V': 8.04, 'I_sc_A': 0.09, 'U_mpp_V': 6.27, 'I_mpp_A': 0.08, 'P_mpp_W': 0.499, 'P_mpp_ein_Paar_im_Tunnel_W': 0.028}
+{'Verschaltung': '4s', 'Szenario': 'kunstlicht', 'G_W_m2': 200.0, 'T_Zelle_C': 35.0, 'U_oc_V': 7.88, 'I_sc_A': 0.121, 'U_mpp_V': 6.09, 'I_mpp_A': 0.106, 'P_mpp_W': 0.645, 'P_mpp_ein_Paar_im_Tunnel_W': 0.029}
+{'Verschaltung': '2s2p', 'Szenario': 'sonne', 'G_W_m2': 850.0, 'T_Zelle_C': 50.0, 'U_oc_V': 4.29, 'I_sc_A': 1.033, 'U_mpp_V': 3.33, 'I_mpp_A': 0.911, 'P_mpp_W': 3.038, 'P_mpp_ein_Paar_im_Tunnel_W': 1.411}
+{'Verschaltung': '2s2p', 'Szenario': 'bewoelkt', 'G_W_m2': 150.0, 'T_Zelle_C': 25.0, 'U_oc_V': 4.02, 'I_sc_A': 0.18, 'U_mpp_V': 3.14, 'I_mpp_A': 0.159, 'P_mpp_W': 0.499, 'P_mpp_ein_Paar_im_Tunnel_W': 0.232}
+{'Verschaltung': '2s2p', 'Szenario': 'kunstlicht', 'G_W_m2': 200.0, 'T_Zelle_C': 35.0, 'U_oc_V': 3.94, 'I_sc_A': 0.241, 'U_mpp_V': 3.05, 'I_mpp_A': 0.212, 'P_mpp_W': 0.645, 'P_mpp_ein_Paar_im_Tunnel_W': 0.298}
+{'Verschaltung': '4p', 'Szenario': 'sonne', 'G_W_m2': 850.0, 'T_Zelle_C': 50.0, 'U_oc_V': 2.14, 'I_sc_A': 2.066, 'U_mpp_V': 1.67, 'I_mpp_A': 1.823, 'P_mpp_W': 3.038, 'P_mpp_ein_Paar_im_Tunnel_W': 1.411}
+{'Verschaltung': '4p', 'Szenario': 'bewoelkt', 'G_W_m2': 150.0, 'T_Zelle_C': 25.0, 'U_oc_V': 2.01, 'I_sc_A': 0.36, 'U_mpp_V': 1.57, 'I_mpp_A': 0.318, 'P_mpp_W': 0.499, 'P_mpp_ein_Paar_im_Tunnel_W': 0.232}
+{'Verschaltung': '4p', 'Szenario': 'kunstlicht', 'G_W_m2': 200.0, 'T_Zelle_C': 35.0, 'U_oc_V': 1.97, 'I_sc_A': 0.482, 'U_mpp_V': 1.52, 'I_mpp_A': 0.424, 'P_mpp_W': 0.645, 'P_mpp_ein_Paar_im_Tunnel_W': 0.298}
+Fuellfaktor STC: 0.723
+Diagramme -> C:\Users\Jonas\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\4373c39a-4161-48f9-9bee-f31d56ccb375\29afa420-1743-4e84-b9eb-280f5aea64cd\scratch-2026-11-14-e90f7e\SolarMobil_Expert\results\diagrams
